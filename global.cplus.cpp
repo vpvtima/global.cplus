@@ -18,6 +18,7 @@ int main() {
     //listMain();
 
     //std::cout << "Hello, World!" << std::endl;
-    system("pause");
-    return 0;
+    //system("pause");
+    //return 0;
+    cin.get();
 }
